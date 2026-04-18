@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+thymia-sentinel
+python-multipart
